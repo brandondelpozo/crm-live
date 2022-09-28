@@ -25,7 +25,7 @@ SECRET_KEY = '+%w!51+re+fg*g1si$wbtgr0y+srss89xen6icd!if9tp05iak'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['branzel-crm1.herokuapp.com','127.0.0.1', 'web-production-0c3f.up.railway.app']
+ALLOWED_HOSTS = ['branzel-crm1.herokuapp.com','127.0.0.1', 'crm1.up.railway.app']
 
 
 # Application definition
